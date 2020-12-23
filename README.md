@@ -8,6 +8,7 @@ The project is created with Unity 2020.1.6f1, so it is suggested to use the same
 
 ## Implimented features
 > This may not be always up to date.
+
 In first person, body faces where camera faces and turn as camera turns.
 在第一人称视角的时候角色跟随相机方向旋转
 In third person, body faces where input is pointing and turn individual to camera.
